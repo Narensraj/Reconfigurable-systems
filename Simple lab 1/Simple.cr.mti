@@ -1,0 +1,16 @@
+{C:/Users/naren/Downloads/verilog_simple (1).v} {1 {vlog -work work -stats=none {C:/Users/naren/Downloads/verilog_simple (1).v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SIMPLE
+
+Top level modules:
+	SIMPLE
+
+} {} {}} {C:/Users/naren/Downloads/vhdl_simple (1).vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/naren/Downloads/vhdl_simple (1).vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SIMPLE
+-- Compiling architecture RTL of SIMPLE
+
+} {} {}}
